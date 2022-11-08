@@ -2,7 +2,7 @@
 
 ### dev.
 
-Over 6 years of professional development working with teams ranging from 2 to 20 people in small to corporate businesses. A most recent accomplishment is providing a working e-commerce solution for a $9B popular publicly traded company and managing their store program. Currently on a team of excellent developers working on an AWS S3 alternative. See https://xanetservices.com/ for more details.
+Over 8 years of professional development working with teams ranging from 2 to 200 people in small to corporate businesses. A most recent accomplishment is providing a working e-commerce solution for a $9B popular publicly traded company and managing their store program. Currently, I'm on a team with excellent developers working on an AWS S3 alternative. See https://xanetservices.com/ for more details.
 
 ### geek.
 
