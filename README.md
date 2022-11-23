@@ -2,14 +2,16 @@
 
 ### dev.
 
-Over 8 years of professional development working with teams ranging from 2 to 200 people in small to corporate businesses. A most recent accomplishment is providing a working e-commerce solution for a $9B popular publicly traded company and managing their store program. Currently, I'm on a team with excellent developers working on an AWS S3 alternative. See https://xanetservices.com/ for more details.
+I'm a developer. I'm not a writer. I can write good code. I can not write good bios.
+
+I primarily develop applications, both web and desktop, using Javascript based frameworks such as React. Currently, the majority of projects I have started have used NextJS (since v9) as it has proven itself to be a top-notch easy to scale framework. 
 
 ### geek.
 
-Anything related to development or performed on a PC, I'm interested.
+Often I find myself enjoying a technical article much like a reader who enjoys a good mystery novel. Learning how companies overcome obstacles by changing, improving or re-developing technology stacks allows me to take that knowledge and use it however I wish! 
 
-### crypto.
+### blockchain.
 
-Blockchain technology will take the lead in enterprise businesses in the future. Currently, with blockchain, you can do a multitude of functions, like transact money, store information and even file storage. I have invested quite a bit of time learning these technologies and have quite a few projects to be released!
+Blockchain technology will take the lead in enterprise businesses in the future. Currently, with blockchain, you are able to transact money, store information (databasing), and even store files. As we all continue to develop and explore the world of blockchain, more functionality will come proving the need for this technology on a global scale. 
 
 ![camthegeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=camthegeek&show_icons=true&theme=tokyonight&count_private=true) 
